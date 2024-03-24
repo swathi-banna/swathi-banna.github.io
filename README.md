@@ -1,5 +1,5 @@
 # Swathi Banna
 
 <center>
-![Swathi Banna](Swathi Banna.jpg)
+![Swathi Banna](SwathiBanna.jpg)
 </center>
