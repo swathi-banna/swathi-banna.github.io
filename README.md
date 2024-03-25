@@ -11,7 +11,7 @@
   </center> 
 
 
-<a href="[mailto:swathi.banna27@gmail.com](https://mail.google.com/mail/u/0/)"><img src="gmail_icon.png" alt="gmail" style="width:5%;">
+<a href="(https://mail.google.com/mail/u/0/)"><img src="gmail_icon.png" alt="gmail" style="width:5%;">
 
 
 
