@@ -3,13 +3,13 @@
 <center>
 <img src="SwathiBanna.jpg" style="width: 20%; height: auto;"><br>
   Graduate Student in Business Analytics<br>  
-  University of South Florida<br>
+  University of South Florida<br></br>
+  <a href="https://github.com/swathi-banna/Projects"><img src="github icon.png" alt="github" style="width:5%;"></a>
+  <a href="https://www.linkedin.com/in/swathi-banna/"><img src="linkedin icon.png" alt="linkedin" style="width:5%;"></a>
+  <a href="swathi.banna27@gmail.com"><img src="gmail icon.png" alt="gmail" style="width:5%;"><br></br>
   <a href="SwathiResume.pdf" download>Download CV</a>
 </center>
 
 
 
 
-<img src="C:\Users\DELL\Downloads\github icon.png" style="width:10%;">https://github.com/swathi-banna/Projects </img>
-<img src="linkedin icon.png" style="width:10%;"> https://www.linkedin.com/in/swathi-banna/ </img>
-<img src="gmail icon.png" style="width:10%;"> swathi.banna27@gmail.com </img>
