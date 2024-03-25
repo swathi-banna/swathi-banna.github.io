@@ -1,9 +1,9 @@
 # Swathi Banna  
-<right>
-  <a href="home.html" target="main">HOME</a>
-  <a href="about me.html" target="main">ABOUT ME</a>
-  <a href="certifications.html" target="main">CERTIFICATIONS</a>
-</right>
+
+  <a align="right" href="home.html" target="main">HOME</a>
+  <a align="right" href="about me.html" target="main">ABOUT ME</a>
+  <a align="right" href="certifications.html" target="main">CERTIFICATIONS</a>
+ 
 <center>
   <img src="SwathiBanna.jpg" style="width: 20%; height: auto;"><br>
   Graduate Student in Business Analytics<br>  
