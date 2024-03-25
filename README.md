@@ -8,9 +8,10 @@
   <a href="https://www.linkedin.com/in/swathi-banna/"><img src="linkedin icon.png" alt="linkedin" style="width:5%;"></a>
   <a href="swathi.banna27@gmail.com"><img src="gmail icon.png" alt="gmail" style="width:5%;"><br><br>
   <a href="SwathiResume.pdf" download>Download CV</a><br>
-    
-</center>
+  </center> 
 
 
-swathi.banna27@gmail.com
+<a href="mailto:swathi.banna27@gmail.com"><img src="gmail_icon.png" alt="gmail" style="width:5%;">
+
+
 
