@@ -10,7 +10,6 @@
 
 
 
-
-https://github.com/swathi-banna/Projects
-https://www.linkedin.com/in/swathi-banna/
-swathi.banna27@gmail.com
+<img src="C:\Users\DELL\Downloads\github icon.png" style="width:5%;">https://github.com/swathi-banna/Projects</img>
+<img src="C:\Users\DELL\Downloads\linkedin icon.png" style="width:5%;"> https://www.linkedin.com/in/swathi-banna/</img>
+<img src="C:\Users\DELL\Downloads\gmail icon.png" style="width:5%;"> swathi.banna27@gmail.com</img>
