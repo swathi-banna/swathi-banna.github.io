@@ -10,6 +10,6 @@
 
 
 
-<img src="C:\Users\DELL\Downloads\github icon.png" style="width:5%;">https://github.com/swathi-banna/Projects</img>
-<img src="C:\Users\DELL\Downloads\linkedin icon.png" style="width:5%;"> https://www.linkedin.com/in/swathi-banna/</img>
-<img src="C:\Users\DELL\Downloads\gmail icon.png" style="width:5%;"> swathi.banna27@gmail.com</img>
+<img src="C:\Users\DELL\Downloads\github icon.png" style="width:10%;">https://github.com/swathi-banna/Projects </img>
+<img src="linkedin icon.png" style="width:10%;"> https://www.linkedin.com/in/swathi-banna/ </img>
+<img src="gmail icon.png" style="width:10%;"> swathi.banna27@gmail.com </img>
