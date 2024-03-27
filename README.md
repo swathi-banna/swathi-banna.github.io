@@ -2,7 +2,7 @@
 <html lang="en">
 
 <right>
-  <a href="aboutme.html" target="main" align="right">HOME</a>
+  <a href="home.html" target="main" align="right">HOME</a>
   <a href="aboutme.html" target="main" align="right">ABOUT ME</a>
   <a href="certifications.html" target="main" align="right">CERTIFICATIONS</a>
 </right>   
